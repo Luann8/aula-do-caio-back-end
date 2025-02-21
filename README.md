@@ -1,4 +1,4 @@
-# Apresentação: Aula de Back-End com o Professor Caio Januzzi
+# Apresentação: Aula de Back-End com o Professor Caio Jannuzzi
 
 **Data:** Sexta-feira, 21 de fevereiro  
 **Tema:** Desenvolvimento de um site para calcular BTUs de ar-condicionado
